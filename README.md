@@ -8,4 +8,4 @@ The game speeds up as the score increases.
 # Connect 4
 Same rules as connect 4
 # Cube
-WASD move the camera, and clicking+dragging the mouse rotates the camera. Not much more to say, it's just a cube.
+WASD moves the camera, and clicking+dragging the mouse rotates the camera. Not much more to say, it's just a cube.
