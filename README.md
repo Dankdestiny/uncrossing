@@ -5,4 +5,7 @@ The objective is the drag the nodes to uncross the edges, hence the name. Once a
 Follows standard Tetris rules. Up rotates a shape, left/right move it accordingly, down makes it fall faster.
 upon filling a row the squares in that row are deleted and the score goes up by 1.
 The game speeds up as the score increases.
-# 
+# Connect 4
+Same rules as connect 4
+# Cube
+WASD move the camera, and clicking+dragging the mouse rotates the camera. Not much more to say, it's just a cube.
