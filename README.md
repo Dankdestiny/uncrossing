@@ -6,4 +6,4 @@ Follows standard Tetris rules. Up rotates a shape, left/right move it accordingl
 upon filling a row the squares in that row are deleted and the score goes up by 1.
 The game speeds up as the score increases.
 # Connect 4
-Same rules as connect 4
+Same rules as connect 4. To make a play press 1-7 and a coloured disk will appear in the corresponding column. 
