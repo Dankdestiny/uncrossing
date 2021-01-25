@@ -134,8 +134,7 @@ def new_game():
         text = font.render(str(i+1), True, GREY)
         background.blit(text,(x+x_offset-5,y+y_offset-10))
 
-def how_to_play():
-    pass
+
 
 #game variables
 game_grid = [[False for a in range(4)] for b in range(row_num)]
@@ -146,7 +145,6 @@ cover = pygame.Surface((4*pin_size,pin_size))
 
 #buttons
 Button((5*pin_size,10),(3*pin_size-10,40),"New Game",new_game)
-Button((5*pin_size,60),(3*pin_size-10,40),"How to Play",how_to_play)
 
 new_game()
 
